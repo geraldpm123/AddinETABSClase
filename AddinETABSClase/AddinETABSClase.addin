@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>AddinParaETABS</Name>
+    <Assembly>ArchivosAddinETABS\AddinETABSClase.dll</Assembly>
+    <AddInId>D736B56B-B041-4AF5-BEEA-5252EAC53DE4</AddInId>
+    <FullClassName>AddinETABSClase.App</FullClassName>
+    <VendorId>GPM</VendorId>
+    <VendorDescription>ObjectG, www.objectg.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
